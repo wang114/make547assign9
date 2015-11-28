@@ -1,28 +1,28 @@
 Film	Character	Race	wordcount
-The Fellowship Of The Ring	Gandalf	Wizard	2360
-The Two Towers	Gandalf	Wizard	1504
-The Return Of The King	Sam	Hobbit	1044
-The Fellowship Of The Ring	Frodo	Hobbit	967
-The Return Of The King	Gandalf	Wizard	964
-The Two Towers	Sam	Hobbit	924
 The Fellowship Of The Ring	Aragorn	Human	920
-The Return Of The King	Aragorn	Human	822
-The Return Of The King	Frodo	Hobbit	664
-The Two Towers	Frodo	Hobbit	650
-The Two Towers	Pippin	Hobbit	628
-The Two Towers	Aragorn	Human	580
-The Fellowship Of The Ring	Sam	Hobbit	557
-The Return Of The King	Gimli	Dwarf	521
+The Fellowship Of The Ring	Arwen	Elf	235
+The Fellowship Of The Ring	Frodo	Hobbit	967
+The Fellowship Of The Ring	Gandalf	Wizard	2360
 The Fellowship Of The Ring	Gimli	Dwarf	431
+The Fellowship Of The Ring	Legolas	Elf	184
+The Fellowship Of The Ring	Merry	Hobbit	323
+The Fellowship Of The Ring	Pippin	Hobbit	274
+The Fellowship Of The Ring	Sam	Hobbit	557
+The Two Towers	Aragorn	Human	580
+The Two Towers	Arwen	Elf	115
+The Two Towers	Frodo	Hobbit	650
+The Two Towers	Gandalf	Wizard	1504
+The Two Towers	Gimli	Dwarf	313
+The Two Towers	Legolas	Elf	263
 The Two Towers	Merry	Hobbit	398
+The Two Towers	Pippin	Hobbit	628
+The Two Towers	Sam	Hobbit	924
+The Return Of The King	Aragorn	Human	822
+The Return Of The King	Arwen	Elf	141
+The Return Of The King	Frodo	Hobbit	664
+The Return Of The King	Gandalf	Wizard	964
+The Return Of The King	Gimli	Dwarf	521
+The Return Of The King	Legolas	Elf	233
 The Return Of The King	Merry	Hobbit	396
 The Return Of The King	Pippin	Hobbit	359
-The Fellowship Of The Ring	Merry	Hobbit	323
-The Two Towers	Gimli	Dwarf	313
-The Fellowship Of The Ring	Pippin	Hobbit	274
-The Two Towers	Legolas	Elf	263
-The Fellowship Of The Ring	Arwen	Elf	235
-The Return Of The King	Legolas	Elf	233
-The Fellowship Of The Ring	Legolas	Elf	184
-The Return Of The King	Arwen	Elf	141
-The Two Towers	Arwen	Elf	115
+The Return Of The King	Sam	Hobbit	1044
