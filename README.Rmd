@@ -1,0 +1,10 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+
+My pipeline flows can be summarized by the graph here:
+
+![](pipe.png)

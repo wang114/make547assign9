@@ -1,28 +1,404 @@
-Film	Character	Race	wordcount
-The Fellowship Of The Ring	Aragorn	Human	920
-The Fellowship Of The Ring	Arwen	Elf	235
-The Fellowship Of The Ring	Frodo	Hobbit	967
-The Fellowship Of The Ring	Gandalf	Wizard	2360
-The Fellowship Of The Ring	Gimli	Dwarf	431
-The Fellowship Of The Ring	Legolas	Elf	184
-The Fellowship Of The Ring	Merry	Hobbit	323
-The Fellowship Of The Ring	Pippin	Hobbit	274
-The Fellowship Of The Ring	Sam	Hobbit	557
-The Two Towers	Aragorn	Human	580
-The Two Towers	Arwen	Elf	115
-The Two Towers	Frodo	Hobbit	650
-The Two Towers	Gandalf	Wizard	1504
-The Two Towers	Gimli	Dwarf	313
-The Two Towers	Legolas	Elf	263
-The Two Towers	Merry	Hobbit	398
-The Two Towers	Pippin	Hobbit	628
-The Two Towers	Sam	Hobbit	924
-The Return Of The King	Aragorn	Human	822
-The Return Of The King	Arwen	Elf	141
-The Return Of The King	Frodo	Hobbit	664
-The Return Of The King	Gandalf	Wizard	964
-The Return Of The King	Gimli	Dwarf	521
-The Return Of The King	Legolas	Elf	233
-The Return Of The King	Merry	Hobbit	396
-The Return Of The King	Pippin	Hobbit	359
-The Return Of The King	Sam	Hobbit	1044
+Film	Chapter	Character	Race	Words
+The Fellowship Of The Ring	03: The Shire	Frodo	Hobbit	128
+The Fellowship Of The Ring	03: The Shire	Gandalf	Wizard	197
+The Fellowship Of The Ring	04: Very Old Friends	Gandalf	Wizard	64
+The Fellowship Of The Ring	05: A Long Expected Party	Frodo	Hobbit	32
+The Fellowship Of The Ring	05: A Long Expected Party	Gandalf	Wizard	12
+The Fellowship Of The Ring	05: A Long Expected Party	Merry	Hobbit	19
+The Fellowship Of The Ring	05: A Long Expected Party	Pippin	Hobbit	15
+The Fellowship Of The Ring	05: A Long Expected Party	Sam	Hobbit	7
+The Fellowship Of The Ring	06: Farewell Dear Bilbo	Gandalf	Wizard	148
+The Fellowship Of The Ring	07: Keep It Secret, Keep It Safe	Frodo	Hobbit	33
+The Fellowship Of The Ring	07: Keep It Secret, Keep It Safe	Gandalf	Wizard	60
+The Fellowship Of The Ring	08: The Account of Isildur	Gandalf	Wizard	107
+The Fellowship Of The Ring	09: At The Green Dragon	Frodo	Hobbit	17
+The Fellowship Of The Ring	09: At The Green Dragon	Merry	Hobbit	53
+The Fellowship Of The Ring	09: At The Green Dragon	Pippin	Hobbit	61
+The Fellowship Of The Ring	09: At The Green Dragon	Sam	Hobbit	10
+The Fellowship Of The Ring	10: The Shadow Of The Past	Frodo	Hobbit	139
+The Fellowship Of The Ring	10: The Shadow Of The Past	Gandalf	Wizard	541
+The Fellowship Of The Ring	10: The Shadow Of The Past	Sam	Hobbit	84
+The Fellowship Of The Ring	11: The Passing Of The Elves	Frodo	Hobbit	43
+The Fellowship Of The Ring	11: The Passing Of The Elves	Sam	Hobbit	40
+The Fellowship Of The Ring	12: Saruman The White	Gandalf	Wizard	85
+The Fellowship Of The Ring	13: A Shortcut To Mushrooms	Frodo	Hobbit	37
+The Fellowship Of The Ring	13: A Shortcut To Mushrooms	Merry	Hobbit	58
+The Fellowship Of The Ring	13: A Shortcut To Mushrooms	Pippin	Hobbit	32
+The Fellowship Of The Ring	13: A Shortcut To Mushrooms	Sam	Hobbit	48
+The Fellowship Of The Ring	14: Buckleberry Ferry	Frodo	Hobbit	20
+The Fellowship Of The Ring	14: Buckleberry Ferry	Merry	Hobbit	43
+The Fellowship Of The Ring	14: Buckleberry Ferry	Pippin	Hobbit	14
+The Fellowship Of The Ring	14: Buckleberry Ferry	Sam	Hobbit	9
+The Fellowship Of The Ring	15: At The Sign of the Prancing Pony	Aragorn	Human	76
+The Fellowship Of The Ring	15: At The Sign of the Prancing Pony	Frodo	Hobbit	68
+The Fellowship Of The Ring	15: At The Sign of the Prancing Pony	Merry	Hobbit	6
+The Fellowship Of The Ring	15: At The Sign of the Prancing Pony	Pippin	Hobbit	39
+The Fellowship Of The Ring	15: At The Sign of the Prancing Pony	Sam	Hobbit	30
+The Fellowship Of The Ring	16: The Nazgul	Aragorn	Human	96
+The Fellowship Of The Ring	16: The Nazgul	Frodo	Hobbit	29
+The Fellowship Of The Ring	16: The Nazgul	Merry	Hobbit	28
+The Fellowship Of The Ring	16: The Nazgul	Pippin	Hobbit	25
+The Fellowship Of The Ring	16: The Nazgul	Sam	Hobbit	17
+The Fellowship Of The Ring	17: The Midgewater Marshes	Aragorn	Human	33
+The Fellowship Of The Ring	17: The Midgewater Marshes	Frodo	Hobbit	12
+The Fellowship Of The Ring	17: The Midgewater Marshes	Merry	Hobbit	9
+The Fellowship Of The Ring	19: A Knife In The Dark	Aragorn	Human	53
+The Fellowship Of The Ring	19: A Knife In The Dark	Frodo	Hobbit	16
+The Fellowship Of The Ring	19: A Knife In The Dark	Merry	Hobbit	13
+The Fellowship Of The Ring	19: A Knife In The Dark	Pippin	Hobbit	12
+The Fellowship Of The Ring	19: A Knife In The Dark	Sam	Hobbit	24
+The Fellowship Of The Ring	20: The Caverns Of Isengard	Gandalf	Wizard	5
+The Fellowship Of The Ring	21: Flight To The Ford	Aragorn	Human	48
+The Fellowship Of The Ring	21: Flight To The Ford	Arwen	Elf	131
+The Fellowship Of The Ring	21: Flight To The Ford	Merry	Hobbit	5
+The Fellowship Of The Ring	21: Flight To The Ford	Pippin	Hobbit	9
+The Fellowship Of The Ring	21: Flight To The Ford	Sam	Hobbit	34
+The Fellowship Of The Ring	23: Many Meetings	Frodo	Hobbit	107
+The Fellowship Of The Ring	23: Many Meetings	Gandalf	Wizard	104
+The Fellowship Of The Ring	23: Many Meetings	Sam	Hobbit	63
+The Fellowship Of The Ring	24: The Fate Of The Ring	Gandalf	Wizard	102
+The Fellowship Of The Ring	25: The Sword That Was Broken	Aragorn	Human	25
+The Fellowship Of The Ring	25: The Sword That Was Broken	Arwen	Elf	47
+The Fellowship Of The Ring	26: The Evenstar	Aragorn	Human	24
+The Fellowship Of The Ring	26: The Evenstar	Arwen	Elf	57
+The Fellowship Of The Ring	27: The Council Of Elrond	Aragorn	Human	40
+The Fellowship Of The Ring	27: The Council Of Elrond	Frodo	Hobbit	24
+The Fellowship Of The Ring	27: The Council Of Elrond	Gandalf	Wizard	85
+The Fellowship Of The Ring	27: The Council Of Elrond	Gimli	Dwarf	38
+The Fellowship Of The Ring	27: The Council Of Elrond	Legolas	Elf	34
+The Fellowship Of The Ring	27: The Council Of Elrond	Merry	Hobbit	24
+The Fellowship Of The Ring	27: The Council Of Elrond	Pippin	Hobbit	18
+The Fellowship Of The Ring	27: The Council Of Elrond	Sam	Hobbit	8
+The Fellowship Of The Ring	28: Gilraen's Memorial	Aragorn	Human	11
+The Fellowship Of The Ring	29: Bilbo's Gifts	Frodo	Hobbit	3
+The Fellowship Of The Ring	30: The Departure Of The Fellowship	Frodo	Hobbit	7
+The Fellowship Of The Ring	30: The Departure Of The Fellowship	Gandalf	Wizard	7
+The Fellowship Of The Ring	31: The Ring Goes South	Aragorn	Human	12
+The Fellowship Of The Ring	31: The Ring Goes South	Gandalf	Wizard	68
+The Fellowship Of The Ring	31: The Ring Goes South	Gimli	Dwarf	47
+The Fellowship Of The Ring	31: The Ring Goes South	Legolas	Elf	3
+The Fellowship Of The Ring	31: The Ring Goes South	Merry	Hobbit	17
+The Fellowship Of The Ring	31: The Ring Goes South	Pippin	Hobbit	10
+The Fellowship Of The Ring	31: The Ring Goes South	Sam	Hobbit	3
+The Fellowship Of The Ring	32: The Pass Of Caradhras	Aragorn	Human	30
+The Fellowship Of The Ring	32: The Pass Of Caradhras	Frodo	Hobbit	6
+The Fellowship Of The Ring	32: The Pass Of Caradhras	Gandalf	Wizard	18
+The Fellowship Of The Ring	32: The Pass Of Caradhras	Gimli	Dwarf	19
+The Fellowship Of The Ring	32: The Pass Of Caradhras	Legolas	Elf	8
+The Fellowship Of The Ring	33: Moria	Aragorn	Human	31
+The Fellowship Of The Ring	33: Moria	Frodo	Hobbit	30
+The Fellowship Of The Ring	33: Moria	Gandalf	Wizard	202
+The Fellowship Of The Ring	33: Moria	Gimli	Dwarf	52
+The Fellowship Of The Ring	33: Moria	Legolas	Elf	7
+The Fellowship Of The Ring	33: Moria	Merry	Hobbit	9
+The Fellowship Of The Ring	33: Moria	Pippin	Hobbit	11
+The Fellowship Of The Ring	33: Moria	Sam	Hobbit	7
+The Fellowship Of The Ring	34: A Journey In The Dark	Frodo	Hobbit	39
+The Fellowship Of The Ring	34: A Journey In The Dark	Gandalf	Wizard	349
+The Fellowship Of The Ring	34: A Journey In The Dark	Gimli	Dwarf	6
+The Fellowship Of The Ring	34: A Journey In The Dark	Merry	Hobbit	8
+The Fellowship Of The Ring	34: A Journey In The Dark	Pippin	Hobbit	10
+The Fellowship Of The Ring	34: A Journey In The Dark	Sam	Hobbit	7
+The Fellowship Of The Ring	35: Balin's Tomb	Aragorn	Human	22
+The Fellowship Of The Ring	35: Balin's Tomb	Frodo	Hobbit	8
+The Fellowship Of The Ring	35: Balin's Tomb	Gandalf	Wizard	89
+The Fellowship Of The Ring	35: Balin's Tomb	Gimli	Dwarf	37
+The Fellowship Of The Ring	35: Balin's Tomb	Legolas	Elf	8
+The Fellowship Of The Ring	35: Balin's Tomb	Sam	Hobbit	13
+The Fellowship Of The Ring	36: The Bridge Of Khazad-dûm	Aragorn	Human	45
+The Fellowship Of The Ring	36: The Bridge Of Khazad-dûm	Frodo	Hobbit	4
+The Fellowship Of The Ring	36: The Bridge Of Khazad-dûm	Gandalf	Wizard	83
+The Fellowship Of The Ring	36: The Bridge Of Khazad-dûm	Gimli	Dwarf	7
+The Fellowship Of The Ring	36: The Bridge Of Khazad-dûm	Legolas	Elf	4
+The Fellowship Of The Ring	37: Lothlorien	Aragorn	Human	26
+The Fellowship Of The Ring	37: Lothlorien	Gimli	Dwarf	84
+The Fellowship Of The Ring	37: Lothlorien	Legolas	Elf	7
+The Fellowship Of The Ring	37: Lothlorien	Sam	Hobbit	2
+The Fellowship Of The Ring	38: Caras Galadhon	Aragorn	Human	16
+The Fellowship Of The Ring	38: Caras Galadhon	Legolas	Elf	41
+The Fellowship Of The Ring	38: Caras Galadhon	Merry	Hobbit	6
+The Fellowship Of The Ring	38: Caras Galadhon	Sam	Hobbit	49
+The Fellowship Of The Ring	39: The Mirror Of Galadriel	Frodo	Hobbit	36
+The Fellowship Of The Ring	41: Farewell To Lorien	Aragorn	Human	13
+The Fellowship Of The Ring	41: Farewell To Lorien	Gimli	Dwarf	81
+The Fellowship Of The Ring	41: Farewell To Lorien	Legolas	Elf	20
+The Fellowship Of The Ring	41: Farewell To Lorien	Merry	Hobbit	5
+The Fellowship Of The Ring	41: Farewell To Lorien	Pippin	Hobbit	1
+The Fellowship Of The Ring	41: Farewell To Lorien	Sam	Hobbit	13
+The Fellowship Of The Ring	42: The Great River	Aragorn	Human	64
+The Fellowship Of The Ring	42: The Great River	Frodo	Hobbit	16
+The Fellowship Of The Ring	42: The Great River	Sam	Hobbit	37
+The Fellowship Of The Ring	43: Parth Galen	Aragorn	Human	79
+The Fellowship Of The Ring	43: Parth Galen	Frodo	Hobbit	54
+The Fellowship Of The Ring	43: Parth Galen	Gimli	Dwarf	48
+The Fellowship Of The Ring	43: Parth Galen	Legolas	Elf	31
+The Fellowship Of The Ring	43: Parth Galen	Merry	Hobbit	2
+The Fellowship Of The Ring	44: The Breaking Of The Fellowship	Aragorn	Human	2
+The Fellowship Of The Ring	44: The Breaking Of The Fellowship	Legolas	Elf	6
+The Fellowship Of The Ring	44: The Breaking Of The Fellowship	Merry	Hobbit	18
+The Fellowship Of The Ring	44: The Breaking Of The Fellowship	Pippin	Hobbit	17
+The Fellowship Of The Ring	44: The Breaking Of The Fellowship	Sam	Hobbit	2
+The Fellowship Of The Ring	45: The Departure Of Boromir	Aragorn	Human	72
+The Fellowship Of The Ring	46: The Road Goes Ever On…	Aragorn	Human	102
+The Fellowship Of The Ring	46: The Road Goes Ever On…	Frodo	Hobbit	59
+The Fellowship Of The Ring	46: The Road Goes Ever On…	Gandalf	Wizard	34
+The Fellowship Of The Ring	46: The Road Goes Ever On…	Gimli	Dwarf	12
+The Fellowship Of The Ring	46: The Road Goes Ever On…	Legolas	Elf	15
+The Fellowship Of The Ring	46: The Road Goes Ever On…	Sam	Hobbit	50
+The Return Of The King	01: The Foundations Of Stone	Frodo	Hobbit	9
+The Return Of The King	01: The Foundations Of Stone	Gandalf	Wizard	39
+The Return Of The King	01: The Foundations Of Stone	Sam	Hobbit	5
+The Return Of The King	02: Elven Rope	Frodo	Hobbit	46
+The Return Of The King	02: Elven Rope	Sam	Hobbit	97
+The Return Of The King	03: The Taming of Sméagol	Frodo	Hobbit	123
+The Return Of The King	03: The Taming of Sméagol	Sam	Hobbit	181
+The Return Of The King	04: The Uruk-Hai	Merry	Hobbit	19
+The Return Of The King	04: The Uruk-Hai	Pippin	Hobbit	26
+The Return Of The King	05: The Three Hunters	Aragorn	Human	59
+The Return Of The King	05: The Three Hunters	Gimli	Dwarf	35
+The Return Of The King	05: The Three Hunters	Legolas	Elf	25
+The Return Of The King	09: On The Trail Of The Uruk-Hai	Gimli	Dwarf	6
+The Return Of The King	09: On The Trail Of The Uruk-Hai	Legolas	Elf	13
+The Return Of The King	10: Night Camp At Fangorn	Legolas	Elf	10
+The Return Of The King	10: Night Camp At Fangorn	Merry	Hobbit	68
+The Return Of The King	10: Night Camp At Fangorn	Pippin	Hobbit	14
+The Return Of The King	11: The Riders Of Rohan	Aragorn	Human	68
+The Return Of The King	11: The Riders Of Rohan	Gimli	Dwarf	24
+The Return Of The King	11: The Riders Of Rohan	Legolas	Elf	7
+The Return Of The King	12: The Fate Of Merry And Pippin	Aragorn	Human	33
+The Return Of The King	12: The Fate Of Merry And Pippin	Gimli	Dwarf	16
+The Return Of The King	12: The Fate Of Merry And Pippin	Merry	Hobbit	3
+The Return Of The King	13: Treebeard	Merry	Hobbit	28
+The Return Of The King	13: Treebeard	Pippin	Hobbit	36
+The Return Of The King	14: The Passage Of The Marshes	Frodo	Hobbit	54
+The Return Of The King	14: The Passage Of The Marshes	Sam	Hobbit	69
+The Return Of The King	15: The White Rider	Aragorn	Human	68
+The Return Of The King	15: The White Rider	Gandalf	Wizard	298
+The Return Of The King	15: The White Rider	Gimli	Dwarf	73
+The Return Of The King	15: The White Rider	Legolas	Elf	63
+The Return Of The King	16: The Song Of The Entwives	Merry	Hobbit	4
+The Return Of The King	17: The Heir Of Númenor	Aragorn	Human	7
+The Return Of The King	17: The Heir Of Númenor	Gandalf	Wizard	226
+The Return Of The King	18: The Black Gate Is Closed	Frodo	Hobbit	39
+The Return Of The King	18: The Black Gate Is Closed	Sam	Hobbit	68
+The Return Of The King	19: Ent Draft	Merry	Hobbit	63
+The Return Of The King	19: Ent Draft	Pippin	Hobbit	122
+The Return Of The King	20: The King Of The Golden Hall	Aragorn	Human	18
+The Return Of The King	20: The King Of The Golden Hall	Gandalf	Wizard	151
+The Return Of The King	20: The King Of The Golden Hall	Gimli	Dwarf	15
+The Return Of The King	22: Simbelmynë on the Burial Mounds	Gandalf	Wizard	28
+The Return Of The King	23: The King's Decision	Aragorn	Human	59
+The Return Of The King	23: The King's Decision	Gandalf	Wizard	165
+The Return Of The King	23: The King's Decision	Gimli	Dwarf	21
+The Return Of The King	24: Brego	Aragorn	Human	22
+The Return Of The King	26: A Daughter Of Kings	Aragorn	Human	31
+The Return Of The King	28: The Forests Of Ithilien	Frodo	Hobbit	81
+The Return Of The King	28: The Forests Of Ithilien	Sam	Hobbit	87
+The Return Of The King	30: Of Herbs And Stewed Rabbit	Frodo	Hobbit	39
+The Return Of The King	30: Of Herbs And Stewed Rabbit	Sam	Hobbit	91
+The Return Of The King	31: Dwarf Women	Aragorn	Human	3
+The Return Of The King	31: Dwarf Women	Gimli	Dwarf	68
+The Return Of The King	32: One of the Dúnedain	Aragorn	Human	33
+The Return Of The King	32: One of the Dúnedain	Gimli	Dwarf	6
+The Return Of The King	33: The Evenstar	Aragorn	Human	97
+The Return Of The King	33: The Evenstar	Arwen	Elf	119
+The Return Of The King	34: The Wolves Of Isengard	Aragorn	Human	9
+The Return Of The King	34: The Wolves Of Isengard	Gimli	Dwarf	45
+The Return Of The King	34: The Wolves Of Isengard	Legolas	Elf	5
+The Return Of The King	35: Helm's Deep	Gimli	Dwarf	4
+The Return Of The King	36: Isengard Unleashed	Merry	Hobbit	8
+The Return Of The King	36: Isengard Unleashed	Pippin	Hobbit	9
+The Return Of The King	37: The Grace Of The Valar	Arwen	Elf	8
+The Return Of The King	38: Arwen's Fate	Arwen	Elf	14
+The Return Of The King	40: The Windows On The West	Frodo	Hobbit	75
+The Return Of The King	40: The Windows On The West	Sam	Hobbit	8
+The Return Of The King	42: The Forbidden Pool	Frodo	Hobbit	89
+The Return Of The King	42: The Forbidden Pool	Sam	Hobbit	64
+The Return Of The King	43: Aragorn's Return	Aragorn	Human	69
+The Return Of The King	43: Aragorn's Return	Gimli	Dwarf	51
+The Return Of The King	43: Aragorn's Return	Legolas	Elf	5
+The Return Of The King	44: Entmoot	Merry	Hobbit	6
+The Return Of The King	45: The Glittering Caves	Aragorn	Human	78
+The Return Of The King	45: The Glittering Caves	Gimli	Dwarf	13
+The Return Of The King	45: The Glittering Caves	Legolas	Elf	36
+The Return Of The King	47: Don't Be Hasty, Master Meriadoc!	Merry	Hobbit	18
+The Return Of The King	47: Don't Be Hasty, Master Meriadoc!	Pippin	Hobbit	7
+The Return Of The King	48: The Host Of The Eldar	Aragorn	Human	34
+The Return Of The King	48: The Host Of The Eldar	Gimli	Dwarf	14
+The Return Of The King	48: The Host Of The Eldar	Legolas	Elf	24
+The Return Of The King	49: The Battle Of The Hornburg	Aragorn	Human	18
+The Return Of The King	49: The Battle Of The Hornburg	Gimli	Dwarf	50
+The Return Of The King	49: The Battle Of The Hornburg	Legolas	Elf	37
+The Return Of The King	50: Old Entish	Merry	Hobbit	30
+The Return Of The King	50: Old Entish	Pippin	Hobbit	5
+The Return Of The King	51: The Breach Of The Deeping Wall	Aragorn	Human	12
+The Return Of The King	51: The Breach Of The Deeping Wall	Gimli	Dwarf	6
+The Return Of The King	52: The Entmoot Decides	Merry	Hobbit	58
+The Return Of The King	52: The Entmoot Decides	Pippin	Hobbit	29
+The Return Of The King	53: The Retreat To The Hornburg	Aragorn	Human	31
+The Return Of The King	53: The Retreat To The Hornburg	Gimli	Dwarf	34
+The Return Of The King	53: The Retreat To The Hornburg	Legolas	Elf	1
+The Return Of The King	54: Master Peregrin's Plan	Merry	Hobbit	6
+The Return Of The King	54: Master Peregrin's Plan	Pippin	Hobbit	46
+The Return Of The King	55: Osgiliath	Frodo	Hobbit	23
+The Return Of The King	56: The Last March Of The Ents	Merry	Hobbit	5
+The Return Of The King	56: The Last March Of The Ents	Pippin	Hobbit	8
+The Return Of The King	57: The Nazgûl Attack	Frodo	Hobbit	15
+The Return Of The King	57: The Nazgûl Attack	Sam	Hobbit	53
+The Return Of The King	58: Forth Eorlingas	Aragorn	Human	73
+The Return Of The King	58: Forth Eorlingas	Gandalf	Wizard	21
+The Return Of The King	58: Forth Eorlingas	Gimli	Dwarf	5
+The Return Of The King	59: The Flooding Of Isengard	Merry	Hobbit	3
+The Return Of The King	59: The Flooding Of Isengard	Pippin	Hobbit	1
+The Return Of The King	60: The Tales That Really Mattered…	Frodo	Hobbit	12
+The Return Of The King	60: The Tales That Really Mattered…	Sam	Hobbit	186
+The Return Of The King	62: The Final Tally	Gimli	Dwarf	35
+The Return Of The King	62: The Final Tally	Legolas	Elf	7
+The Return Of The King	63: Flotsam And Jetsam	Merry	Hobbit	77
+The Return Of The King	63: Flotsam And Jetsam	Pippin	Hobbit	56
+The Return Of The King	64: Farewell To Faramir	Frodo	Hobbit	18
+The Return Of The King	64: Farewell To Faramir	Sam	Hobbit	54
+The Return Of The King	65: The Battle For Middle Earth Is About To Begin	Frodo	Hobbit	30
+The Return Of The King	65: The Battle For Middle Earth Is About To Begin	Gandalf	Wizard	36
+The Return Of The King	65: The Battle For Middle Earth Is About To Begin	Sam	Hobbit	69
+The Return Of The King	66: Gollum's Plan	Frodo	Hobbit	11
+The Return Of The King	66: Gollum's Plan	Sam	Hobbit	12
+The Two Towers	02: Journey To The Cross-roads	Frodo	Hobbit	18
+The Two Towers	02: Journey To The Cross-roads	Sam	Hobbit	77
+The Two Towers	03: The Road To Isengard	Gandalf	Wizard	1
+The Two Towers	03: The Road To Isengard	Gimli	Dwarf	22
+The Two Towers	03: The Road To Isengard	Merry	Hobbit	36
+The Two Towers	03: The Road To Isengard	Pippin	Hobbit	51
+The Two Towers	04: The Voice Of Saruman	Aragorn	Human	3
+The Two Towers	04: The Voice Of Saruman	Gandalf	Wizard	111
+The Two Towers	04: The Voice Of Saruman	Gimli	Dwarf	23
+The Two Towers	05: Return To Edoras	Aragorn	Human	20
+The Two Towers	05: Return To Edoras	Gandalf	Wizard	15
+The Two Towers	05: Return To Edoras	Gimli	Dwarf	40
+The Two Towers	05: Return To Edoras	Legolas	Elf	21
+The Two Towers	05: Return To Edoras	Merry	Hobbit	78
+The Two Towers	05: Return To Edoras	Pippin	Hobbit	73
+The Two Towers	06: Gollum's Villany	Frodo	Hobbit	46
+The Two Towers	06: Gollum's Villany	Sam	Hobbit	65
+The Two Towers	07: Eowyn's Dream	Aragorn	Human	13
+The Two Towers	08: The Palantir	Aragorn	Human	20
+The Two Towers	08: The Palantir	Gandalf	Wizard	255
+The Two Towers	08: The Palantir	Legolas	Elf	22
+The Two Towers	08: The Palantir	Merry	Hobbit	135
+The Two Towers	08: The Palantir	Pippin	Hobbit	104
+The Two Towers	10: The Reforging Of Narsil	Arwen	Elf	100
+The Two Towers	11: Minas Tirith	Gandalf	Wizard	202
+The Two Towers	11: Minas Tirith	Pippin	Hobbit	36
+The Two Towers	12: The Decline Of Gondor	Gandalf	Wizard	268
+The Two Towers	12: The Decline Of Gondor	Pippin	Hobbit	22
+The Two Towers	13: Cross-roads Of The Fallen King	Frodo	Hobbit	30
+The Two Towers	13: Cross-roads Of The Fallen King	Sam	Hobbit	56
+The Two Towers	14: The Deep Breath Before The Plunge	Gandalf	Wizard	163
+The Two Towers	14: The Deep Breath Before The Plunge	Pippin	Hobbit	75
+The Two Towers	15: Minas Morgul	Frodo	Hobbit	8
+The Two Towers	15: Minas Morgul	Gandalf	Wizard	20
+The Two Towers	15: Minas Morgul	Sam	Hobbit	5
+The Two Towers	16: Sam's Warning	Frodo	Hobbit	4
+The Two Towers	16: Sam's Warning	Sam	Hobbit	61
+The Two Towers	17: Pippin's Task	Gandalf	Wizard	30
+The Two Towers	19: The Lighting Of The Beacons	Gandalf	Wizard	5
+The Two Towers	20: Theoren's Decision	Aragorn	Human	18
+The Two Towers	20: Theoren's Decision	Gimli	Dwarf	15
+The Two Towers	20: Theoren's Decision	Legolas	Elf	19
+The Two Towers	20: Theoren's Decision	Merry	Hobbit	16
+The Two Towers	21: The Fall of Osgiliath	Gandalf	Wizard	34
+The Two Towers	21: The Fall of Osgiliath	Pippin	Hobbit	15
+The Two Towers	23: The Stairs Of Cirith Ungol	Sam	Hobbit	8
+The Two Towers	24: Courage Is The Best Defense	Gandalf	Wizard	9
+The Two Towers	25: Peregrin Of The Tower Guard	Pippin	Hobbit	66
+The Two Towers	26: Allegiance To Denethor	Pippin	Hobbit	32
+The Two Towers	27: The Parting Of Sam & Frodo	Frodo	Hobbit	43
+The Two Towers	27: The Parting Of Sam & Frodo	Sam	Hobbit	184
+The Two Towers	28: The Sacrifice Of Faramir	Gandalf	Wizard	29
+The Two Towers	28: The Sacrifice Of Faramir	Pippin	Hobbit	59
+The Two Towers	29: Marshalling At Dunharrow	Aragorn	Human	26
+The Two Towers	29: Marshalling At Dunharrow	Gimli	Dwarf	12
+The Two Towers	29: Marshalling At Dunharrow	Legolas	Elf	21
+The Two Towers	29: Marshalling At Dunharrow	Merry	Hobbit	12
+The Two Towers	30: Anduril - Flame Of The West	Aragorn	Human	54
+The Two Towers	30: Anduril - Flame Of The West	Arwen	Elf	15
+The Two Towers	31: Aragorn Takes The Paths Of The Dead	Aragorn	Human	42
+The Two Towers	31: Aragorn Takes The Paths Of The Dead	Gimli	Dwarf	20
+The Two Towers	31: Aragorn Takes The Paths Of The Dead	Legolas	Elf	9
+The Two Towers	33: Dwimoberg ~ The Haunted Mountain	Aragorn	Human	6
+The Two Towers	33: Dwimoberg ~ The Haunted Mountain	Gimli	Dwarf	45
+The Two Towers	33: Dwimoberg ~ The Haunted Mountain	Legolas	Elf	123
+The Two Towers	34: The Muster Of Rohan	Merry	Hobbit	21
+The Two Towers	35: The Paths Of The Dead	Aragorn	Human	75
+The Two Towers	35: The Paths Of The Dead	Gimli	Dwarf	43
+The Two Towers	35: The Paths Of The Dead	Legolas	Elf	32
+The Two Towers	36: The Siege Of Gondor	Gandalf	Wizard	81
+The Two Towers	36: The Siege Of Gondor	Pippin	Hobbit	15
+The Two Towers	37: The Corsairs Of Umbar	Aragorn	Human	21
+The Two Towers	37: The Corsairs Of Umbar	Gimli	Dwarf	14
+The Two Towers	38: Shelob's Lair	Frodo	Hobbit	60
+The Two Towers	38: Shelob's Lair	Sam	Hobbit	1
+The Two Towers	39: Merry's Simple Courage	Merry	Hobbit	83
+The Two Towers	40: Grond ~ The Hammer Of The Underworld	Gandalf	Wizard	5
+The Two Towers	42: Breaking The Gate Of Gondor	Gandalf	Wizard	21
+The Two Towers	43: The Choices Of Master Samwise Gamgee	Sam	Hobbit	48
+The Two Towers	44: Denethor's Madness	Pippin	Hobbit	17
+The Two Towers	45: The Witch King's Hour	Gandalf	Wizard	48
+The Two Towers	45: The Witch King's Hour	Pippin	Hobbit	13
+The Two Towers	46: The Ride Of The Rohirrim	Merry	Hobbit	2
+The Two Towers	47: The Pyre Of Denethor	Gandalf	Wizard	9
+The Two Towers	47: The Pyre Of Denethor	Pippin	Hobbit	2
+The Two Towers	49: A Far Green Country	Gandalf	Wizard	54
+The Two Towers	49: A Far Green Country	Pippin	Hobbit	17
+The Two Towers	51: The Black Ships	Gimli	Dwarf	12
+The Two Towers	53: Victory At Minar Tirith	Aragorn	Human	1
+The Two Towers	53: Victory At Minar Tirith	Gimli	Dwarf	6
+The Two Towers	53: Victory At Minar Tirith	Legolas	Elf	6
+The Two Towers	55: Oaths Fulfilled	Aragorn	Human	9
+The Two Towers	55: Oaths Fulfilled	Gimli	Dwarf	15
+The Two Towers	56: The Houses Of Healing	Pippin	Hobbit	1
+The Two Towers	57: Pippin Looks After Merry	Merry	Hobbit	11
+The Two Towers	57: Pippin Looks After Merry	Pippin	Hobbit	16
+The Two Towers	58: The Tower Of Cirith Ungol	Frodo	Hobbit	64
+The Two Towers	58: The Tower Of Cirith Ungol	Sam	Hobbit	96
+The Two Towers	59: The Last Debate	Aragorn	Human	82
+The Two Towers	59: The Last Debate	Gandalf	Wizard	59
+The Two Towers	59: The Last Debate	Gimli	Dwarf	24
+The Two Towers	59: The Last Debate	Legolas	Elf	2
+The Two Towers	60: Aragorn Masters The Palantir	Aragorn	Human	17
+The Two Towers	62: In The Company Of Orcs	Frodo	Hobbit	16
+The Two Towers	62: In The Company Of Orcs	Sam	Hobbit	46
+The Two Towers	63: The Land Of Shadow	Frodo	Hobbit	30
+The Two Towers	63: The Land Of Shadow	Sam	Hobbit	56
+The Two Towers	64: The Mouth Of Sauron	Aragorn	Human	23
+The Two Towers	64: The Mouth Of Sauron	Gandalf	Wizard	32
+The Two Towers	64: The Mouth Of Sauron	Gimli	Dwarf	5
+The Two Towers	64: The Mouth Of Sauron	Merry	Hobbit	1
+The Two Towers	64: The Mouth Of Sauron	Pippin	Hobbit	5
+The Two Towers	65: The Black Gate Opens	Aragorn	Human	103
+The Two Towers	65: The Black Gate Opens	Gimli	Dwarf	16
+The Two Towers	65: The Black Gate Opens	Legolas	Elf	8
+The Two Towers	65: The Black Gate Opens	Sam	Hobbit	16
+The Two Towers	66: I Can't Carry It For You… But I Can Carry You	Frodo	Hobbit	44
+The Two Towers	66: I Can't Carry It For You… But I Can Carry You	Sam	Hobbit	85
+The Two Towers	67: The Last Move	Aragorn	Human	2
+The Two Towers	68: Mount Doom	Frodo	Hobbit	9
+The Two Towers	68: Mount Doom	Sam	Hobbit	10
+The Two Towers	69: The Eagles Are Coming	Pippin	Hobbit	6
+The Two Towers	70: The Crack Of Doom	Frodo	Hobbit	7
+The Two Towers	70: The Crack Of Doom	Sam	Hobbit	38
+The Two Towers	71: Sauron Defeated	Merry	Hobbit	2
+The Two Towers	71: Sauron Defeated	Pippin	Hobbit	1
+The Two Towers	72: The End Of All Things	Frodo	Hobbit	37
+The Two Towers	72: The End Of All Things	Sam	Hobbit	31
+The Two Towers	73: The Fellowship Reunited	Frodo	Hobbit	4
+The Two Towers	73: The Fellowship Reunited	Gimli	Dwarf	1
+The Two Towers	73: The Fellowship Reunited	Merry	Hobbit	1
+The Two Towers	74: The Return Of The King	Aragorn	Human	45
+The Two Towers	74: The Return Of The King	Gandalf	Wizard	11
+The Two Towers	75: Homeward Bound	Frodo	Hobbit	98
+The Two Towers	75: Homeward Bound	Pippin	Hobbit	2
+The Two Towers	75: Homeward Bound	Sam	Hobbit	27
+The Two Towers	76: The Grey Havens	Frodo	Hobbit	132
+The Two Towers	76: The Grey Havens	Gandalf	Wizard	42
+The Two Towers	76: The Grey Havens	Sam	Hobbit	14
