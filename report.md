@@ -1,11 +1,6 @@
----
-title: "Assign 9"
-author: "Ran Wang"
-date: "November 27, 2015"
-output: 
-  html_document: 
-    keep_md: yes
----
+# Assign 9
+Ran Wang  
+November 27, 2015  
 ## Big Picture
 
 This assignment is about automating data-analysis pipelines using `Makefile`. My workflow can be described in general as the following:
@@ -22,22 +17,48 @@ This assignment is about automating data-analysis pipelines using `Makefile`. My
 The data I worked with is the [Lord of the Rings data][1]. It contains information of the number of words spoken by 74 characters from 10 races in the Lord of the Rings trilogy. 
 
 
-```{r,echo=FALSE}
-suppressPackageStartupMessages(library(dplyr))
-lotr_dat <- read.delim("lotr_raw.tsv")
-lotr <- tbl_df(lotr_dat)
+
+
+
+```r
+head(lotr)
 ```
 
-```{r}
-head(lotr)
+```
+## Source: local data frame [6 x 5]
+## 
+##                         Film                Chapter Character   Race Words
+##                       (fctr)                 (fctr)    (fctr) (fctr) (int)
+## 1 The Fellowship Of The Ring           01: Prologue     Bilbo Hobbit     4
+## 2 The Fellowship Of The Ring           01: Prologue    Elrond    Elf     5
+## 3 The Fellowship Of The Ring           01: Prologue Galadriel    Elf   460
+## 4 The Fellowship Of The Ring           01: Prologue    Gollum Gollum    20
+## 5 The Fellowship Of The Ring 02: Concerning Hobbits     Bilbo Hobbit   214
+## 6 The Fellowship Of The Ring          03: The Shire     Bilbo Hobbit    70
 ```
 
 To see how many characters from each race, I make a summary table. There are a lot of Human and Hobbits. 
 
-```{r}
+
+```r
 population <- read.delim("population.tsv")
 knitr::kable(population, format = "markdown")
 ```
+
+
+
+|Race   | count|
+|:------|-----:|
+|Wizard |     4|
+|Dead   |     1|
+|Dwarf  |     1|
+|Elf    |     7|
+|Ent    |     1|
+|Gollum |     2|
+|Hobbit |    16|
+|Human  |    29|
+|Nazgul |     2|
+|Orc    |    11|
 
 ![](lotr_heat_map.png)
 
@@ -46,10 +67,26 @@ The heat map also gives me an idea that how frequent a character appears.
 
 I want to know which race speaks the most. Hobbit speaks the most since the protagonists are Hobbits.
 
-```{r}
+
+```r
 lotr_race <- read.delim("lotr_race.tsv")
 knitr::kable(lotr_race, format = "markdown")
 ```
+
+
+
+|Race   | wordcount|
+|:------|---------:|
+|Hobbit |      8796|
+|Human  |      8712|
+|Wizard |      5961|
+|Elf    |      3737|
+|Gollum |      1802|
+|Dwarf  |      1265|
+|Ent    |       838|
+|Orc    |       723|
+|Nazgul |        75|
+|Dead   |        60|
 
 ![](lotr_race.png)
 
