@@ -34,7 +34,7 @@ To see how many characters from each race, I make a summary table. There are a l
 
 ```{r}
 population <- read.delim("population.tsv")
-knitr::kable(population)
+knitr::kable(population, format = "markdown")
 ```
 
 ![](lotr_heat_map.png)
@@ -46,7 +46,7 @@ I want to know which race speaks the most. Hobbit speaks the most since the prot
 
 ```{r}
 lotr_race <- read.delim("lotr_race.tsv")
-knitr::kable(lotr_race)
+knitr::kable(lotr_race, format = "markdown")
 ```
 
 ![](lotr_race.png)
