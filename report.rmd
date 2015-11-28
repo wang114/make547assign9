@@ -10,8 +10,8 @@ This assignment is about automating data-analysis pipelines using `Makefile`. My
 
  + Download data `lotr_raw.tsv` and save it locally
  + Read data and preform data cleaning
- + Write numerical data to CSV files `lotr_main_characters.tsv`, `lotr_race.tsv`
- + Data analysis, generate figures and save them to files `character_plot.png`,`barplot_main_characters.png`
+ + Write numerical data to CSV files `lotr_main_characters.tsv`, `lotr_race.tsv`, `population.tsv`
+ + Data analysis, generate figures and save them to files `character_plot.png`,`barplot_main_characters.png`, `lotr_heat_map.png`,`lotr_race.png`
  + Write reports as a combination of data, statistical results and figures
  + Pipelines are generated in `Makefile` for each step 
 
